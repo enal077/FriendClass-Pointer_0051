@@ -25,5 +25,8 @@ void manusia::showNilaiPelajar(pelajar &x)
 
 int main()
 {
-    // Lanjutan kode program...
+    manusia budi;
+    pelajar pbudi;
+    budi.showNilaiPelajar(pbudi);
+    return 0;
 }
