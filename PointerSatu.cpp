@@ -2,5 +2,5 @@
 using namespace std;
 class mahasiswa{
     public:
-    string nama;
-    int 
+    int nim;
+    void showNim(){}
